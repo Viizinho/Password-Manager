@@ -1,1 +1,2 @@
-# Password-Manager
+# SafeMinder
+a password manager
