@@ -1,4 +1,4 @@
-# SafeMinder | Aplicação para Gerenciamento de Senhas
+# SafeMinder | Gerenciador de Senhas
 
 ## 📖  Descrição
 
